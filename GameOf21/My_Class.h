@@ -20,7 +20,5 @@ namespace methods // creates a new namespace that we can import
 			int menuChoice{ 0 }; // creates a new int called menuChoice and assigns it the value of 0 using direct initialization
 			int numberOfSticks{ 0 }; // creates a new int called numberOfSticks and assigns it the value of 0 using direct initialization
 			int numOfTurns{ 0 }; // creates a new int called numbOfTurns and assigns it the value 0f 0 using direct initialization
-
-			int *ptr;// creates a new int pointer called ptr
 	};
 }
