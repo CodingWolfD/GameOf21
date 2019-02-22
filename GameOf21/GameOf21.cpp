@@ -10,6 +10,6 @@ my_Class mc; // creates a nnew reference to the class in the methods.h file
 
 int main() // Main Method
 {
-	srand(time(NULL)); // this seeds the pseudo random number generator by default the seed for rand() is 1, using time(NULL) uses the computers clock to change the random number since the computers clock in constantly changing
+	srand(time(NULL)); // this seeds the pseudo random number generator by default the seed for rand() is 1, using time(NULL) uses the computers clock to change the random number since the computers clock in s
 	mc.mainMenu(); // calls the mainMenu() method from the class My_Class.h file
 }
