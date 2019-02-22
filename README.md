@@ -1,6 +1,6 @@
 # GameOf21
+A game made to run in the command prompt, the users goal is to be the last person to remove the last stick.
 
-A console game i built taken from my HNC in Computer Games Development course. 
-Our goal was the create a game of 21 in Java where your goal is to remove the last 3 sticks.
+The game starts off with 21 sticks and the player goes first, once the player has chosen to remove between 1 and 3 sticks the computer will then remove 1-3 sticks and so on unitl there are 0 sticks left.
 
-I have converted this to C++ while i am learning and will continue to improve this as i learn more about c++.
+Written by Daniel Martin. 
